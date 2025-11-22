@@ -31,7 +31,6 @@ Semua dikendalikan melalui **Toggle Switch** di pojok kanan atas.
 ---
 
 
----
 
 ## 3. 📍 Smart Sorting & Peta Marker
 
@@ -50,17 +49,7 @@ Marker yang digunakan:
 ---
 
 
----
 
-
----
-
-
----
-
-
-
----
 
 ## 🚀 Perubahan Utama di Build 2
 
