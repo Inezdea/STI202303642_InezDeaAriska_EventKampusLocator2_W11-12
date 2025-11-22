@@ -12,10 +12,7 @@
 Antarmuka kini menggunakan **Dark Mode** dengan tampilan yang lebih modern.  
 Informasi lokasi seperti **Latitude, Longitude, Speed, dan Heading**, ditampilkan dalam **kartu informasi (Info Card)** lengkap dengan status waktu pengambilan data.
 
-<p align="center">
-  <img src="assets/images/build2_ui.jpg" width="300"><br>
-  <em>Gambar 1. Tampilan Utama Dark Mode & Info Card</em>
-</p>
+
 
 ---
 
@@ -29,17 +26,10 @@ Pengguna dapat memilih:
 
 Semua dikendalikan melalui **Toggle Switch** di pojok kanan atas.
 
-<p align="center">
-  <img src="assets/images/build2_battery.jpg" width="300"><br>
-  <em>Gambar 2. Toggle Akurasi & Peringatan Baterai</em>
-</p>
+
 
 ---
 
-<p align="center">
-  <img src="assets/images/build2_background.jpg" width="300"><br>
-  <em>Gambar 3. Notifikasi Background</em>
-</p>
 
 ---
 
@@ -56,38 +46,19 @@ Marker yang digunakan:
 - **Marker Merah:** Lokasi pengguna
 - **Marker Biru:** Lokasi event
 
-<p align="center">
-  <img src="assets/images/build2_list.jpg" width="300"><br>
-  <em>Gambar 4. Smart List Event</em>
-</p>
 
 ---
 
-<p align="center">
-  <img src="assets/images/build2_marker_gmaps1.jpg" width="300"><br>
-  <em>Gambar 5. Marker Peta (Google Maps)</em>
-</p>
 
 ---
 
-<p align="center">
-  <img src="assets/images/build2_marker_gmaps2.jpg" width="300"><br>
-  <em>Gambar 6. Marker Peta (Google Maps)</em>
-</p>
 
 ---
 
-<p align="center">
-  <img src="assets/images/build2_marker_osm.jpg" width="300"><br>
-  <em>Gambar 7. Marker Peta (OSM)</em>
-</p>
 
 ---
 
-<p align="center">
-  <img src="assets/images/build2_marker_osmklik.jpg" width="300"><br>
-  <em>Gambar 8. Marker Peta (OSM) (Jika di klik)</em>
-</p>
+
 
 ---
 
